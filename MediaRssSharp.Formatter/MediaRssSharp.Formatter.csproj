@@ -41,7 +41,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MediaRss\MediaRssSharp.csproj">
+    <ProjectReference Include="..\MediaRssSharp\MediaRssSharp.csproj">
       <Project>{5DD5B31F-DB30-4711-B3B6-46D263C11280}</Project>
       <Name>MediaRssSharp</Name>
     </ProjectReference>
