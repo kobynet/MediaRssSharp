@@ -1,0 +1,7 @@
+C:\KobyDev\mediarss\MediaRss.Formatter\bin\Debug\MediaRss.Formatter.dll
+C:\KobyDev\mediarss\MediaRss.Formatter\bin\Debug\MediaRss.Formatter.pdb
+C:\KobyDev\mediarss\MediaRss.Formatter\bin\Debug\MediaRss.dll
+C:\KobyDev\mediarss\MediaRss.Formatter\bin\Debug\MediaRss.pdb
+C:\KobyDev\mediarss\MediaRss.Formatter\obj\Debug\MediaRss.Formatter.csprojResolveAssemblyReference.cache
+C:\KobyDev\mediarss\MediaRss.Formatter\obj\Debug\MediaRss.Formatter.dll
+C:\KobyDev\mediarss\MediaRss.Formatter\obj\Debug\MediaRss.Formatter.pdb

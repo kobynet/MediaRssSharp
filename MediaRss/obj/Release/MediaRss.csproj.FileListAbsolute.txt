@@ -1,0 +1,4 @@
+C:\RumbleDev\CS\Parsers\MediaRssParser\MediaRss\bin\Release\MediaRss.dll
+C:\RumbleDev\CS\Parsers\MediaRssParser\MediaRss\bin\Release\MediaRss.pdb
+C:\RumbleDev\CS\Parsers\MediaRssParser\MediaRss\obj\Release\MediaRss.dll
+C:\RumbleDev\CS\Parsers\MediaRssParser\MediaRss\obj\Release\MediaRss.pdb
