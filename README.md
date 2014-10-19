@@ -12,7 +12,7 @@ Basic usage:
 var reader = XmlReader.Create("SampleMedia.rss");
 var feed = SyndicationFeed.Load<MediaRssFeed>(reader);
 ```
-The project currently supports most of the MediaRss tags/rules.
+The project currently supports most of the MediaRss objects/rules.
 I will be more than happy to recieve pull requests/suggestions about this project.
 
 Media RSS is specification originally developed by Yahoo for describing rich media content for us in their search engine. It has since been adopted by the community at large and has now been taken over by the Rss Advisory board http://www.rssboard.org/.
