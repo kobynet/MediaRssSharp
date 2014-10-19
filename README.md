@@ -3,7 +3,7 @@ MediaRssSharp
 
 Media Rss parser according to http://www.rssboard.org/media-rss
 
-This parser is a fork of Foovanadil(Brad Cunningham) [MediaRss](http://mediarss.codeplex.com) alpha release.
+This parser is a fork (along with migrating from CodePlex to Github) of Foovanadil(Brad Cunningham) [MediaRss](http://mediarss.codeplex.com) alpha release.
 
 The project is based on the syndication model object in .NET and is a set of libraries to read/write Media Rss files.
 
