@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaRssSharp", "MediaRss\MediaRssSharp.csproj", "{5DD5B31F-DB30-4711-B3B6-46D263C11280}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaRssSharp", "MediaRssSharp\MediaRssSharp.csproj", "{5DD5B31F-DB30-4711-B3B6-46D263C11280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaRssSharp.Tests", "MediaRss.Tests\MediaRssSharp.Tests.csproj", "{63D23F90-7D68-41F3-8279-E78328353B60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaRssSharp.Tests", "MediaRssSharp.Tests\MediaRssSharp.Tests.csproj", "{63D23F90-7D68-41F3-8279-E78328353B60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaRssSharp.Formatter", "MediaRss.Formatter\MediaRssSharp.Formatter.csproj", "{85058198-6CBC-4E7E-8B68-051DBF7167B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaRssSharp.Formatter", "MediaRssSharp.Formatter\MediaRssSharp.Formatter.csproj", "{85058198-6CBC-4E7E-8B68-051DBF7167B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
